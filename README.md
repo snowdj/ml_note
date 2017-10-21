@@ -1,4 +1,4 @@
-Rprogass1
+Notes for Machine Learning
 =========
 
-Rprogass1
+Some application of machine learning in Economics and Finance.
